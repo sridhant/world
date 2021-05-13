@@ -9,7 +9,7 @@ function Banner(props) {
     <>
       <CssBaseline />
 
-      <Container style = {{backgroundAttachment : "fixed" , backgroundPosition : "center"}} className="bgcontainer" maxWidth="large" >
+      <Container style = {{backgroundAttachment : "fixed" , backgroundPosition : "center" }} className="bgcontainer" maxWidth="large" >
 
         <Container className="svgdiv" maxWidth="small" align="center">
 

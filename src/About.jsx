@@ -6,9 +6,9 @@ function About(props) {
     return (
         <>
 
-            <Container className = "aboutmaincontainer" maxWidth="xl" style={{ backgroundColor: "#791BF5", height: "110vh", width: "100vw" }}>
+            <Container className = "aboutmaincontainer" maxWidth="xl" style={{ backgroundColor: "#791BF5", height: "120vh", width: "100vw" }}>
 
-                <Typography className="abouttitle" align="center" style = {{ paddingTop : "5%" , color : "white"}} variant="h2"> <b>About Us</b> </Typography>
+                <Typography className="abouttitle" align="center" style = {{ paddingTop : "5%" , color : "white"}} variant="h2"> <b>About Me</b> </Typography>
 
                 <Container className = "aboutcontainer" style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>
 
